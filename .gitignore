@@ -1,0 +1,12 @@
+__pycache__ 
+tmp*.pkl
+gpt2ja-medium.tar.bz2
+gpt2ja-medium
+finetune.npz
+report/
+./checkpoint
+./laughter-detection
+./laughter-detection/checkpoints/comparisons/baseline*
+./laughter-detection/checkpoints/comparisons/resnet_with_*
+./laughter-detection/scripts/Evaluation
+./laughter-detection/tst_wave/laugh_*.wav
