@@ -5,7 +5,7 @@
 
 ## How to run
 ```bash
-$ cd gpt2-japanese/
+$ cd radio-news-make/
 $ pip3 install -r requirements.txt
 $ pip3 install -r laughter-detection/requirements.txt
 $ wget "https://drive.google.com/uc?export=download&id=1hryE15ky-uAFy9pFPXix5d5epJ23HUzR" -O ./laughter-detection/suda_komatsu.wav
