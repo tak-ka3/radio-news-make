@@ -1,6 +1,6 @@
 # 芸能ニュースメーカー(eeic 人工知能演習)
 
-## Abstruct
+## Abstract
 ラジオを元にした芸能ニュースの記事の自動生成
 
 ## Preparation
