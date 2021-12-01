@@ -1,18 +1,14 @@
 # 芸能ニュースメーカー(eeic 人工知能演習)
 
-## 概要
+## Abstruct
 ラジオを元にした芸能ニュースの記事の自動生成
 
 ## Preparation
-- pythonのバージョンをminicondaなどを利用して、`3.7.10`に設定してください。（おそらく3.7以上だといける）
+pythonのバージョンをminicondaなどを利用して、`3.7.10`に設定してください。（おそらく3.7以上だといける）
 
 ## How to run
 ```bash
-<<<<<<< HEAD
 $ cd radio-news-make
-=======
-$ cd radio-news-make/
->>>>>>> 843310c40091a26648cee2c5059f53b6e569c45b
 $ pip3 install -r requirements.txt
 $ pip3 install -r laughter-detection/requirements.txt
 $ wget "https://drive.google.com/uc?export=download&id=1hryE15ky-uAFy9pFPXix5d5epJ23HUzR" -O ./laughter-detection/suda_komatsu.wav
